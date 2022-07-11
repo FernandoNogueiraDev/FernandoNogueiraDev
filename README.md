@@ -1,13 +1,20 @@
-### Hi there 👋
+# Fernando Nogueira 
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+### Estudante De Desenvolvimento de Sistemas
 
-### Linguagens:
+## Tecnologias:
+
+### Front-End:
+
+<img height=70 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg"/><img height=70 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg" /><img height=70 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg"/> <img height=70 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-original.svg">
+
+### Back-End:
+
+<img height=70 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg"/> <img height=70 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-plain.svg"> <img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"> <img height=70 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg">
+<br>
 
 
+## Contatos:
 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-thebadge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000">
- 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand"/>
+<a href="https://www.linkedin.com/in/fernando-nogueira-5a2309234/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin">  </a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoNogueiraDev)](https://github.com/anuraghazra/github-readme-stats)
