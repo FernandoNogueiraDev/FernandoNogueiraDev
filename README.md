@@ -1,6 +1,6 @@
 # Fernando Nogueira 
 
-### Estudante De Desenvolvimento de Sistemas
+### Estudante de Desenvolvimento de Sistemas
 
 ## Conhecimentos:
 
