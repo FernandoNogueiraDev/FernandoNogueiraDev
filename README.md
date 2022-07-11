@@ -10,9 +10,11 @@
 
 ### Back-End:
 
-<img height=70 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg"/> <img height=70 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-plain.svg"> <img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"> <img height=70 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg">
-<br>
+<img height=70 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg"/> <img height=70 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-plain.svg"> <img height=70 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg">
 
+### Mobile:
+
+<img height=70 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/androidstudio/androidstudio-original.svg"><img height=70 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg">
 
 ## Contatos:
 
